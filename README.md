@@ -1,18 +1,20 @@
-# PanelMeterV1-Advanced-Firmware
+# PanelMeterV1 Advanced Firmware
 
-This firmware is intended for
-https://www.tindie.com/products/sotos/panel-meter-v1/
-which was crated by Sotirios Zorbas.
+This firmware is intended for **Panel Meter V1** which was developed by **Sotirios Zorbas**.<br/>
+For more information on this project and where to buy the devices, visit the following link:<br/>
+[https://www.tindie.com/products/sotos/panel-meter-v1/]()
 
 This software is a full rewrite of the original firmware and
 tries to provide
+
 * easy calibration
 * easy customization
 * data logging support through the serial port (e.g. for connecting to a Raspberry Pi)
 * modular programming structure
 * a big number of displayable characters and symbols for the 7-segment displays
+* enhanced data processing and filtering
 
-Copyright (c) 2016 Stefan Robl <stefan@qdev.de>
+**Copyright (c) 2016 Stefan Robl <stefan@qdev.de>**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
 associated documentation files (the "Software"), to deal in the Software without restriction, including
